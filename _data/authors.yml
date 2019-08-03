@@ -1,0 +1,18 @@
+justdojava:
+  type      : # "person" (default), "organization"
+  name      : Your Name
+  url       :
+  avatar    : # path or url of avatar image (square)
+  bio       : I am an amazing person.
+  email     :
+  facebook  : justdojava
+  twitter   : justdojava
+  weibo     : justdojava
+  googleplus: justdojava
+  telegram  : justdojava
+  medium    : justdojava
+  zhihu     : justdojava
+  douban    : justdojava
+  linkedin  : justdojava
+  github    : justdojava
+  npm       : justdojava
