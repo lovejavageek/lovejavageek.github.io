@@ -4,6 +4,8 @@ title: Spring 源码学习总结篇
 tagline: by 惊奇
 tags: 
   - spring
+sidebar:
+  nav: docs-zh
 ---
 
 ## 笔记项目地址
